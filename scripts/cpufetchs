@@ -1,0 +1,5 @@
+#!/usr/bin/zsh
+
+function cpufetch() {
+    cd /home/scp-096/Documents/cpufetch && ./cpufetch
+}

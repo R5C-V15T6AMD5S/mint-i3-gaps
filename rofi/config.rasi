@@ -1,0 +1,10 @@
+configuration{
+	modi: "run,drun,ssh,keys,combi,window,windowcd,calc";
+	width: 35;
+	show-icons: true;
+	icon-theme: "papirus_dark";
+	lines: 10;
+	fake-transparency: true;
+	sidebar-mode: false;
+}
+@import "/usr/share/rofi/themes/SeriousJokerRofi.rasi"

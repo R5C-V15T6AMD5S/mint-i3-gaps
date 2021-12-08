@@ -1,0 +1,34 @@
+
+background		= default	default
+frame			= magenta	default 
+window_title		= red	 	default 
+directory		= green	 	default
+selected_directory	= red	 	green   bold 
+playlist		= red		default
+selected_playlist	= magenta	default
+file			= white		default bold
+selected_file		= red		default bold
+marked_file		= blue		default	bold
+marked_selected_file	= yellow	default	bold
+info			= cyan		default
+status			= cyan		default bold
+title			= green	        default
+state			= red   	default
+current_time		= yellow        default
+time_left		= cyan		default
+total_time		= yellow	default
+time_total_frames	= magenta	default
+sound_parameters	= yellow	default
+legend			= magenta   	default
+disabled		= black		default
+enabled			= yellow	default
+empty_mixer_bar		= green		default
+filled_mixer_bar	= black		green   bold
+empty_time_bar		= green		default
+filled_time_bar		= black		green
+entry			= yellow	default
+entry_title		= red		default
+error			= red		default
+message			= yellow	default
+plist_time		= cyan  	default bold
+
