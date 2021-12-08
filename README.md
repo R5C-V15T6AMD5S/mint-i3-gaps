@@ -1,7 +1,7 @@
 # Dotfile for Linux Mint 20.2 [i3-gaps]
 
 ## A description of what the project is for.
-- My first ricing of the Linux Mint that I use on my own. I got the inspiration from the /r/unixporn.
+- My first attempt at ricing Linux Mint that I use as a daily driver. Inspiration came from https://www.reddit.com/r/unixporn/ .
 
 ## Screenshots
 
@@ -19,7 +19,7 @@
 - File manager: `nemo`
 - Terminal: `terminator`
 - Compositor: `compton` [for background transparency]
-- Terminal apps: `figlet`, `cmatrix`, `fkmines`, `htop`, `gotop`, `pfetch`, `tty-clock`
+- Terminal apps: `neofetch`, `tty-clock`, `htop`, `cava`
 - Wallpaper link: https://i.pinimg.com/originals/be/f0/56/bef056084c44e811f834bd1640931ff2.jpg
 
 
