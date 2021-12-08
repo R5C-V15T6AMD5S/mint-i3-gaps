@@ -1,7 +1,8 @@
 # Dotfile for Linux Mint 20.2 [i3-gaps]
 
 ## A description of what the project is for.
-- My first attempt at ricing Linux Mint "Uma" that I use as a daily driver. Inspiration came from https://www.reddit.com/r/unixporn/ . Kali Linux is my next goal [ for ricing and for cyber security experience :) ] 
+- My first attempt at ricing Linux Mint "Uma" that I use as a daily driver. Inspiration came from https://www.reddit.com/r/unixporn/ . 
+- Kali Linux is my next goal [ for ricing and for cyber security experience :) ] . 
 
 ## Screenshots
 
