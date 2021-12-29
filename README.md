@@ -24,8 +24,8 @@
 - Wallpaper link: https://i.pinimg.com/originals/be/f0/56/bef056084c44e811f834bd1640931ff2.jpg
 
 
-## TO DO LIST
+## TO DO LIST [ FIXED ] 
 Base model is made, but few things need to be worked on:
-+ Fix HDMI port `¯\_(ツ)_/¯`
-+ Setup polybar for the second monitor [ `workspaces` ]
-+ Fix Brightness [ `light` ] and Player control [ `Play`, `Pause`, `Stop` ]
+- Fix HDMI port `¯\_(ツ)_/¯`
+- Setup polybar for the second monitor [ `workspaces` ]
+- Fix Brightness [ `light` ] and Player control [ `Play`, `Pause`, `Stop` ]
