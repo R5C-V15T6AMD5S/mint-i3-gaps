@@ -26,6 +26,6 @@
 
 ## TO DO LIST
 Base model is made, but few things need to be worked on:
-- Fix HDMI port `¯\_(ツ)_/¯`
-- Setup polybar for the second monitor [ `workspaces` ]
-- Fix Brightness [ `light` ] and Player control [ `Play`, `Pause`, `Stop` ]
++ Fix HDMI port `¯\_(ツ)_/¯`
++ Setup polybar for the second monitor [ `workspaces` ]
++ Fix Brightness [ `light` ] and Player control [ `Play`, `Pause`, `Stop` ]
