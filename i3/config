@@ -372,7 +372,6 @@ exec "sh -c 'sleep 13; exec firefox'"
 # and nm-applet is a desktop environment-independent system tray GUI for it.
 exec --no-startup-id nm-applet
 exec --no-startup-id nm-nmcli
-exec nmcli device wifi connect 3DCBB9 password smihfx6pof
 
 # Start Polybar [ Noob Version ]
 # exec_always --no-startup-id $HOME/.config/polybar/launch.sh
